@@ -89,7 +89,7 @@ public class CalculoFat extends javax.swing.JFrame {
         int c = 1;
         while (c <= fat) {
             
-            calcF *= c;
+            calcF *= c; 
             c++;
         }
         
