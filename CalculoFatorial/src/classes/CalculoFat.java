@@ -52,7 +52,7 @@ public class CalculoFat extends javax.swing.JFrame {
 
         lblFat.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         lblFat.setForeground(new java.awt.Color(153, 0, 51));
-        lblFat.setText("0");
+        lblFat.setText("1");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
